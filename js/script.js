@@ -1,7 +1,7 @@
 // Copyright (c) 2020 Shanea Jaromay All rights reserved
 //
 // Created by: Shanea Jaromay
-// Created on: Sep 2020
+// Created on: May 2025
 // This file contains the JS functions for index.html
 
 "use strict"
