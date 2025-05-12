@@ -4,29 +4,44 @@
 */
 
 .mdl-layout__header-row {
-  align-items: center;
   justify-content: center;
+  padding: 0;
 }
 
 .mdl-layout__content {
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+  padding-bottom: 1cm;
 }
 
-body {
-  background-color: rgb(154 211 232);
+.mdl-textfield__error {
+  color: lightgreen;
 }
 
-p {
+.page-content {
   color: black;
   font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding-top: 15pt;
+  font-size: 1.25rem;
+  padding-top: 1cm;
+}
+
+.page-content-answer {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.25rem;
+  padding-bottom: 1cm;
+  padding-top: 1cm;
 }
 
 img {
+  height: auto;
+  width: 250px;
   float: right;
-  margin-right: 15px;
+  border: solid;
+  border-radius: 1rem;
+}
+
+body {
+  background-color: rgb(250 255 208);
 }
