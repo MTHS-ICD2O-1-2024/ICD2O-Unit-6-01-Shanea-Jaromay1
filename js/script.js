@@ -8,6 +8,16 @@
 "use-strict"
 
 /**
+ * Check servie worker.
+ */
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/ICS2O-PWA-Test/sw.js", {
+    scope: "/ICS2O-PWA-Test/",
+  })
+}
+
+
+/**
 * This function calculate, doing multiplication
 */
 // eslint-disable-next-line no-unused-vars
