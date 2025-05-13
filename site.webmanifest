@@ -2,8 +2,8 @@
   "name": "Shanea Jaromay's App",
   "short_name": "Shanea Jaromay's App",
   "description": "Github Page for Shanea Jaromay's",
-  "scope": "/MTHS-ICD2O-1-2024/",
-  "start_url": "/IMTHS-ICD2O-1-2024/",
+  "scope": "ICD2O-Unit-6-01-Shanea-Jaromay1",
+  "start_url": "ICD2O-Unit-6-01-Shanea-Jaromay1",
   "permissions": [ 
     "unlimitedStorage",
     "fullscreen"

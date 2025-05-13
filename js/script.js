@@ -11,8 +11,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-PWA-Test/sw.js", {
-    scope: "/ICS2O-PWA-Test/",
+  navigator.serviceWorker.register("/ICD2O-Unit-6-01-Shanea-Jaromay1/sw.js", {
+    scope: "/ICD2O-Unit-6-01-Shanea-Jaromay1/",
   })
 }
 
